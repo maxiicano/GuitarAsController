@@ -20,21 +20,3 @@ maxAPI.addHandler('input', (dir) =>{
 	}
 });
  
-/*
-
-maxAPI.addHandler('input', (dir) =>{
-	if (dir === 'UP') {
-		robot.keyTap("W");
-		
-	} else if (dir === 'DOWN') {
-		robot.keyTap("S");
-
-	} else if (dir === 'LEFT') {
-		robot.keyTap("A");
-
-	} else if (dir === 'RIGHT'){
-		robot.keyTap("D");
-
-	}
-});
-*/
