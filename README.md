@@ -25,6 +25,6 @@ Once you've opened either the Terminal or the Command Prompt type: npm install r
 
 9. after this press the Start Script button. Right now everything is done and working as it should.
 
-10. In my example i played the game Subway Surfers in my browser, you can find the game here: https://poki.nl/g/subway-surfers (link can also be found in the patch). 
+10. In my example i played the game Subway Surfers in my browser, you can find the game here: https://poki.nl/g/subway-surfers . 
 
 11. Enjoy!
