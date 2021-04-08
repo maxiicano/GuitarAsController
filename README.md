@@ -13,7 +13,7 @@ Requirements:
 
 Once you've opened either the Terminal or the Command Prompt type: npm install robotjs and press enter. After this is done type: npm install -g node-gyp and press enter. After this is done type: node-gyp rebuild and press enter. If you're experiencing troubles with the packages please message me and I'll try to help you install it. You can contact me on m.walder@student.avans.nl
 
-4. All the installing is done, right now it's required to place the JS file and the max patch in the same folder on your device. 
+4. All the installing is done, it's required to place the JS file and the max patch in the same folder on your device. 
 
 5. To make sure everything is working correctly, open the JS file in your favourite editor and in the terminal type: npm install and press enter. This will make sure that all the right dependencies are on your device as well as the node_modules. 
 
